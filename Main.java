@@ -1,6 +1,6 @@
 /*********************************************************
  *
- * Place your name / section number in the 'HW1.java' file
+ * Juan  / 002 'HW1.java' file
  * (NOT this file). This main routine is a driver routine for
  * testing the methods in the file 'HW1.java'.
  *
